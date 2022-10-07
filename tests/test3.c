@@ -2,11 +2,12 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define THING "123"
-
 int main(){
+  
+  char* dir;
+  
+  dir = getenv("HOME");
 
-  printf("%s\n",THING);
-
+  printf("%s\n", dir);
   return 0;
 }
