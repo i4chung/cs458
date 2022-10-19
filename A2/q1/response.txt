@@ -1,0 +1,61 @@
+< HTTP/1.1 302 Found
+< Date: Wed, 19 Oct 2022 04:38:19 GMT
+< Server: Apache/2.2.16 (Debian)
+< X-Powered-By: PHP/5.3.3-7+squeeze14
+< Set-Cookie: CS458=qqmdqvs0ajjuaosajkc4pdvpu1; path=/
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Location: index.php
+< Vary: Accept-Encoding
+< Content-Length: 19
+< Content-Type: text/html
+< 
+< HTTP/1.1 302 Found
+< Date: Wed, 19 Oct 2022 04:38:19 GMT
+< Server: Apache/2.2.16 (Debian)
+< X-Powered-By: PHP/5.3.3-7+squeeze14
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Location: index.php
+< Vary: Accept-Encoding
+< Content-Length: 14
+< Content-Type: text/html
+< 
+< HTTP/1.1 200 OK
+< Date: Wed, 19 Oct 2022 04:38:19 GMT
+< Server: Apache/2.2.16 (Debian)
+< X-Powered-By: PHP/5.3.3-7+squeeze14
+< Set-Cookie: CS458=l2aa55kh18l9unh0lrduc1udv3; path=/
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Transfer-Encoding: chunked
+< Content-Type: text/html
+< 
+< HTTP/1.1 302 Found
+< Date: Wed, 19 Oct 2022 04:38:19 GMT
+< Server: Apache/2.2.16 (Debian)
+< X-Powered-By: PHP/5.3.3-7+squeeze14
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Location: view.php?id=54
+< Vary: Accept-Encoding
+< Content-Length: 19
+< Content-Type: text/html
+< 
+< HTTP/1.1 302 Found
+< Date: Wed, 19 Oct 2022 04:38:19 GMT
+< Server: Apache/2.2.16 (Debian)
+< X-Powered-By: PHP/5.3.3-7+squeeze14
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Location: view.php?id=54
+< Vary: Accept-Encoding
+< Content-Length: 5
+< Content-Type: text/html
+< 
